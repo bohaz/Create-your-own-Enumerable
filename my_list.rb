@@ -8,7 +8,7 @@ class MyList
   end
 
   def each(&block)
-    @list.each(&block)
+    @listeach(&block)
   end
 end
 
